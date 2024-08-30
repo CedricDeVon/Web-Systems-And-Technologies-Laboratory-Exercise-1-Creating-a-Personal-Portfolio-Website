@@ -12,4 +12,4 @@
 
 ### Author
 
-- Araneta Vaughn Cedric L.
+- Vaughn Cedric L. Araneta
